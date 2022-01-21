@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently **Computer Science Student Learning Web Designing and Development and Also prepairing DSA in C++**
 
 - 📫 How to reach me **harshdeeps902s@gmail.com**
 
